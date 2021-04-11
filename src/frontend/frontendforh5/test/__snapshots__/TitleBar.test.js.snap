@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<header
+  class="el-header"
+  style="height: 60px;"
+>
+  <span
+    class="title-span"
+  >
+    未来之星管理系统
+  </span>
+   
+  <span
+    class="user-span"
+  >
+    
+  </span>
+   
+  <!---->
+</header>
+`;

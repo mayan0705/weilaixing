@@ -1,0 +1,43 @@
+环境部署：
+1. 本项目采取 django+vue+uni-app 分别部署后端、管理 web 端、用户微信小程序端
+2. 进入Gitlab，进入仓库地址后，点击 project dockerenv，复制ssh地址，然后在本地新建dockerenv文件夹，使用git clone将项目克隆到dockerenv文件夹中
+3. 进入Xftp连接服务器，将本地的dockerenv文件夹传输到服务器的根目录下
+4. 进入Xshell连接服务器，在服务器shell中进行如下操作：
+4.1. 安装nodejs和npm
+yum install nodejs
+然后执行下一步
+4.2. 安装docker
+yum install docker-io
+然后执行下一步
+4.3 安装docker-compose
+yum install docker-compose
+4.4 启动docker服务
+systemctl start docker
+4.5 进入服务器根目录，进入dockerenv文件夹
+4.6 使用docker-compose部署项目
+docker-compose build
+4.7 使用docker-compose启动项目
+docker-compose up
+如果报出 npm error 则停止项目运行，在服务器shell中进入dockerenv/src/frontend/frontendforh5 文件        目录下，进行：
+            (1). npm install
+            (2). npm install axios
+            (3). npm install qs
+            (4). npm install vuex
+（共计四步操作）
+再进入dockerenv/src/frontend/frontendforweixin文件目录下，进行：
+                  (1). npm install
+                   （共计一步）
+再回到dockerenv文件夹，再次执行：
+docker-compose up
+4.8 创建超级管理员，并牢记用户名和密码
+docker-compose run backend django-admin createsuperuser
+4.9 完成数据库表的迁移
+docker-compose run backend migrate
+5.0 docker-compose up
+5. 在本地打开浏览器
+a. 输入 服务器ip地址:8080 进入管理 web 端，如见登录界面则 web 端部署成功
+b. 输入 服务器ip地址:8081 进入用户微信小程序端,如见登录界面则微信小程序端部署成功
+c. 输入 服务器ip地址:8002 进入后端，如见登录界面则后端部署成功。输入刚才注册的超级管理员的用户名密码即可进入后端。
+部署脚本：
+dockerfiles 文件夹里的四个文件
+感谢阅读

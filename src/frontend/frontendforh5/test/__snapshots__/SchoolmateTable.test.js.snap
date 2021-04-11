@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="matetable"
+  >
+    <br />
+     
+    <div
+      class="el-table widthSet el-table--fit el-table--striped el-table--enable-row-hover"
+    >
+      <div
+        class="hidden-columns"
+      >
+        <div>
+          <div />
+            
+          <div />
+           
+          <div />
+        </div>
+      </div>
+      <div
+        class="el-table__header-wrapper"
+      >
+        <table
+          border="0"
+          cellpadding="0"
+          cellspacing="0"
+          class="el-table__header"
+        >
+          <colgroup />
+          <thead
+            class=""
+          >
+            <tr
+              class=""
+            />
+          </thead>
+        </table>
+      </div>
+      <div
+        class="el-table__body-wrapper is-scrolling-none"
+      >
+        <table
+          border="0"
+          cellpadding="0"
+          cellspacing="0"
+          class="el-table__body"
+        >
+          <colgroup />
+          <tbody>
+            <!---->
+          </tbody>
+        </table>
+        <div
+          class="el-table__empty-block"
+        >
+          <span
+            class="el-table__empty-text"
+          >
+            暂无数据
+          </span>
+        </div>
+        <!---->
+      </div>
+      <!---->
+      <!---->
+      <!---->
+      <!---->
+      <div
+        class="el-table__column-resize-proxy"
+        style="display: none;"
+      />
+    </div>
+  </div>
+</div>
+`;

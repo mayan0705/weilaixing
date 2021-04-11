@@ -1,0 +1,58 @@
+
+.course-title {
+  font-weight: bold;
+  font-size: 14px;
+  text-align: left;
+  padding-left: 5px;
+  margin: 5px 0;
+  background-color: rgba(0,0,0,0);
+}
+.camps-title {
+  height: 80px;
+  line-height: 80px;
+  font-family: '\5FAE\8F6F\96C5\9ED1';
+  font-size: 18px;
+  padding-left: 5px;
+  width: 240px;
+  background-color: white;
+}
+.camps-raw {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  position: relative;
+  margin: 10px auto;
+  border: solid 1px gray;
+  background-color: white;
+  border-radius: 3px;
+  -webkit-box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.3);
+          box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.3);
+}
+.course-title {
+  font-weight: bold;
+  font-size: 14px;
+  text-align: left;
+  padding-left: 5px;
+  margin-top: 5px;
+}
+.photo {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 120px;
+  height: 80px;
+  border-radius: 5px;
+  margin: 0;
+  padding: 0;
+}
+.class-logo {
+  width: 100%;
+}
+

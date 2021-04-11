@@ -1,0 +1,990 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <header
+    class="el-header"
+    style="height: 60px;"
+  >
+    <span
+      class="title-span"
+    >
+      未来之星管理系统
+    </span>
+     
+    <span
+      class="user-span"
+    >
+      
+    </span>
+     
+    <a
+      class="el-link el-link--primary is-underline"
+    >
+      <!---->
+      <span
+        class="el-link--inner"
+      >
+        注销
+      </span>
+      <!---->
+    </a>
+  </header>
+   
+  <div
+    class="nav"
+  >
+    <section
+      class="el-container is-vertical"
+    >
+      <header
+        class="el-header"
+        style="height: 60px;"
+      >
+        <div
+          class="newDiv"
+        >
+          <ul
+            class="sub_nav"
+          >
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                报名管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                课程管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                活动管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="blueColor"
+              >
+                校友管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                管理员权限设置
+              </li>
+            </div>
+          </ul>
+        </div>
+      </header>
+    </section>
+  </div>
+   
+  <div>
+    <div
+      class="el-page-header"
+    >
+      <div
+        class="el-page-header__left"
+      >
+        <i
+          class="el-icon-back"
+        />
+        <div
+          class="el-page-header__title"
+        >
+          返回
+        </div>
+      </div>
+      <div
+        class="el-page-header__content"
+      >
+        详情页面
+      </div>
+    </div>
+     
+    <div>
+      <div
+        class="el-card box-card is-hover-shadow"
+      >
+        <div
+          class="el-card__header"
+        >
+          <div
+            class="clearfix"
+          >
+            <span>
+              用户资料
+            </span>
+          </div>
+        </div>
+        <div
+          class="el-card__body"
+        >
+           
+          <p
+            class="title"
+          >
+            基本资料
+          </p>
+           
+          <div
+            class="el-divider el-divider--horizontal"
+          />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            姓名：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+             
+            <span
+              class="spanright"
+            >
+              
+            账户ID（唯一识别码）：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            性别：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+             
+            <span
+              class="spanright"
+            >
+              
+            电子邮箱：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            手机号：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+             
+            <span
+              class="spanright"
+            >
+              
+            微信号：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="el-divider el-divider--horizontal"
+          />
+           
+          <p
+            class="title"
+          >
+            报名信息
+          </p>
+           
+          <div
+            class="el-divider el-divider--horizontal"
+          />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            报名信息获取来源：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+             
+            <span
+              class="spanright"
+            >
+              
+            学历：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            出生日期：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+             
+            <span
+              class="spanright"
+            >
+              
+            公司ID（唯一识别码）：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            所在城市：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              一号推荐人信息：
+            </span>
+          </div>
+           
+          <div
+            class="shortInputBox bigText el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+            />
+            <!---->
+          </div>
+           
+          <br />
+           
+          <br />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              二号推荐人信息：
+            </span>
+          </div>
+           
+          <div
+            class="shortInputBox bigText el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+            />
+            <!---->
+          </div>
+           
+          <br />
+           
+          <br />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              三号推荐人信息：
+            </span>
+          </div>
+           
+          <div
+            class="shortInputBox bigText el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+            />
+            <!---->
+          </div>
+           
+          <br />
+           
+          <br />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            是否认可缺勤制度：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              参加创新院理由：
+            </span>
+          </div>
+           
+          <div
+            class="shortInputBox bigText el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+            />
+            <!---->
+          </div>
+           
+          <br />
+           
+          <br />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              能为他人带来什么：
+            </span>
+          </div>
+           
+          <div
+            class="shortInputBox bigText el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+            />
+            <!---->
+          </div>
+           
+          <br />
+           
+          <br />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            用户最高学历时间情况：
+          
+            </span>
+          </div>
+           
+          <div
+            class="shortInputBox bigText el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+            />
+            <!---->
+          </div>
+           
+          <br />
+           
+          <br />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            用户创业前从业情况：
+          
+            </span>
+          </div>
+           
+          <div
+            class="shortInputBox bigText el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+            />
+            <!---->
+          </div>
+           
+          <br />
+           
+          <br />
+           
+          <div
+            class="el-divider el-divider--horizontal"
+          />
+           
+          <p
+            class="title"
+          >
+            职业信息
+          </p>
+           
+          <div
+            class="el-divider el-divider--horizontal"
+          />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            公司名字：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            公司职位：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+             
+            <span
+              class="spanright"
+            >
+              
+            公司品牌：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            公司网站：
+            
+              <div
+                class="longInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            公司应用或公众号：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+             
+            <span
+              class="spanright"
+            >
+              
+            公司成立时间：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            公司总部所在城市：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+             
+            <span
+              class="spanright"
+            >
+              
+            公司人员数量：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              公司/项目介绍：
+            </span>
+          </div>
+           
+          <div
+            class="shortInputBox bigText el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+            />
+            <!---->
+          </div>
+           
+          <br />
+           
+          <br />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              主要运营数据：
+            </span>
+          </div>
+           
+          <div
+            class="shortInputBox bigText el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+            />
+            <!---->
+          </div>
+           
+          <br />
+           
+          <br />
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            收入规模：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+             
+            <span
+              class="spanright"
+            >
+              
+            市场估值：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              
+            融资情况：
+            
+              <div
+                class="shortInputBox el-input"
+              >
+                <!---->
+                <input
+                  autocomplete="off"
+                  class="el-input__inner"
+                  type="text"
+                />
+                <!---->
+                <!---->
+                <!---->
+                <!---->
+              </div>
+            </span>
+          </div>
+           
+          <div
+            class="text item"
+          >
+            <span
+              class="spanleft"
+            >
+              公司补充说明：
+            </span>
+          </div>
+           
+          <div
+            class="shortInputBox bigText el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+            />
+            <!---->
+          </div>
+           
+          <br />
+           
+          <br />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

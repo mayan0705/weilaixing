@@ -1,0 +1,104 @@
+
+.save-btn {
+  width: 200px;
+  margin: 4% auto;
+  margin-bottom: 20px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #0FAEFF;
+  color: white;
+}
+.self-info {
+  background-color: #FFFFFF;
+  width: 90%;
+  margin: 10px auto;
+  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.3);
+          box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.3);
+}
+.self-info-title {
+  font-weight: bold;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 20px;
+}
+.self-intro-raw {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  position: relative;
+  padding: 5px;
+  font-size: 18px;
+  background-color: rgba(0, 0, 0, 0);
+  height: 30px;
+  margin: 5px;
+  border-bottom: 1px solid #999999;
+}
+.self-intro {
+  margin: 5px auto;
+  padding-bottom: 20px;
+  width: 300px;
+}
+.self-intro-title {
+  text-align: justify;
+  width: 80px;
+  height: 30px;
+  line-height: 30px;
+}
+.self-intro-content {
+  height: 30px;
+  line-height: 30px;
+  text-align: right;
+}
+.photo-top {
+  width: 80px;
+  height: 80px;
+  margin-left: 45px;
+  border-radius: 40px;
+  margin-bottom: 5px;
+  border: 1px solid #EFEFF4;
+}
+.photo-title {
+    text-align: justify;
+    width: 150px;
+    height: 80px;
+    line-height: 80px;
+}
+.photo-row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  position: relative;
+  padding: 5px;
+  font-size: 18px;
+  background-color: rgba(0, 0, 0, 0);
+  height: 80px;
+  margin: 5px;
+  border-bottom: 1px solid #999999;
+}
+.gender-group {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  position: relative;
+  margin-left: 135px;
+  font-size: 18px;
+}
+

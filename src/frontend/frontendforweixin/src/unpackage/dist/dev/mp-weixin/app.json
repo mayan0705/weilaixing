@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/apply/apply",
+    "pages/apply/applyTable",
+    "pages/apply/campDetail",
+    "pages/course/course",
+    "pages/course/someCourse",
+    "pages/edit/edit",
+    "pages/register/register",
+    "pages/schoolmates/dataBank",
+    "pages/schoolmates/event",
+    "pages/schoolmates/schoolmates",
+    "pages/schoolmates/student",
+    "pages/user/user"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "我的",
+    "navigationBarBackgroundColor": "#0faeff",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#0faeff",
+    "backgroundColor": "ffffff",
+    "list": [
+      {
+        "pagePath": "pages/apply/apply",
+        "text": "报名",
+        "iconPath": "/static/img/apply.png",
+        "selectedIconPath": "/static/img/applyHL.png"
+      },
+      {
+        "pagePath": "pages/course/course",
+        "text": "课程",
+        "iconPath": "/static/img/course.png",
+        "selectedIconPath": "/static/img/courseHL.png"
+      },
+      {
+        "pagePath": "pages/schoolmates/schoolmates",
+        "text": "校友",
+        "iconPath": "/static/img/schoolmates.png",
+        "selectedIconPath": "/static/img/schoolmatesHL.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "/static/img/user.png",
+        "selectedIconPath": "/static/img/userHL.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap12.json"
+}

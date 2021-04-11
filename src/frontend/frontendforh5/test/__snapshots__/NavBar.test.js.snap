@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  class="nav"
+>
+  <section
+    class="el-container is-vertical"
+  >
+    <header
+      class="el-header"
+      style="height: 60px;"
+    >
+      <div
+        class="newDiv"
+      >
+        <ul
+          class="sub_nav"
+        >
+          <div>
+            <li
+              class="sub_nav_li"
+              id="blueColor"
+            >
+              报名管理
+            </li>
+          </div>
+           
+          <div>
+            <li
+              class="sub_nav_li"
+              id="normalColor"
+            >
+              课程管理
+            </li>
+          </div>
+           
+          <div>
+            <li
+              class="sub_nav_li"
+              id="normalColor"
+            >
+              活动管理
+            </li>
+          </div>
+           
+          <div>
+            <li
+              class="sub_nav_li"
+              id="normalColor"
+            >
+              校友管理
+            </li>
+          </div>
+           
+          <div>
+            <li
+              class="sub_nav_li"
+              id="normalColor"
+            >
+              管理员权限设置
+            </li>
+          </div>
+        </ul>
+      </div>
+    </header>
+  </section>
+</div>
+`;

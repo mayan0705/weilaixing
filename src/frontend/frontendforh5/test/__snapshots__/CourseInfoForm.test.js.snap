@@ -1,0 +1,476 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <header
+    class="el-header"
+    style="height: 60px;"
+  >
+    <span
+      class="title-span"
+    >
+      未来之星管理系统
+    </span>
+     
+    <span
+      class="user-span"
+    >
+      
+    </span>
+     
+    <a
+      class="el-link el-link--primary is-underline"
+    >
+      <!---->
+      <span
+        class="el-link--inner"
+      >
+        注销
+      </span>
+      <!---->
+    </a>
+  </header>
+   
+  <div
+    class="nav"
+  >
+    <section
+      class="el-container is-vertical"
+    >
+      <header
+        class="el-header"
+        style="height: 60px;"
+      >
+        <div
+          class="newDiv"
+        >
+          <ul
+            class="sub_nav"
+          >
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                报名管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="blueColor"
+              >
+                课程管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                活动管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                校友管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                管理员权限设置
+              </li>
+            </div>
+          </ul>
+        </div>
+      </header>
+    </section>
+  </div>
+   
+  <div>
+    <div
+      class="el-page-header"
+    >
+      <div
+        class="el-page-header__left"
+      >
+        <i
+          class="el-icon-back"
+        />
+        <div
+          class="el-page-header__title"
+        >
+          返回
+        </div>
+      </div>
+      <div
+        class="el-page-header__content"
+      >
+        课程详情
+      </div>
+    </div>
+     
+    <div>
+      <div>
+        <div
+          class="el-card is-hover-shadow box-card"
+        >
+          <div
+            class="el-card__header"
+          >
+            <div
+              class="clearfix"
+            >
+              <span>
+                课程详情
+              </span>
+            </div>
+          </div>
+          <div
+            class="el-card__body"
+          >
+             
+            <div
+              aria-multiselectable="true"
+              class="el-collapse"
+              role="tablist"
+            >
+              <div
+                class="el-collapse-item is-active"
+              >
+                <div
+                  aria-controls="el-collapse-content-1816"
+                  aria-describedby="el-collapse-content-1816"
+                  aria-expanded="true"
+                  role="tab"
+                >
+                  <div
+                    class="el-collapse-item__header is-active"
+                    id="el-collapse-head-1816"
+                    role="button"
+                    tabindex="0"
+                  >
+                    本期创新院课程简介
+                    <i
+                      class="el-collapse-item__arrow el-icon-arrow-right is-active"
+                    />
+                  </div>
+                </div>
+                <div
+                  aria-labelledby="el-collapse-head-1816"
+                  class="el-collapse-item__wrap"
+                  id="el-collapse-content-1816"
+                  role="tabpanel"
+                >
+                  <div
+                    class="el-collapse-item__content"
+                  >
+                    <div
+                      class="el-input box-card2"
+                    >
+                      <!---->
+                      <input
+                        autocomplete="off"
+                        class="el-input__inner"
+                        placeholder="请输入"
+                        type="text"
+                      />
+                      <!---->
+                      <!---->
+                      <!---->
+                      <!---->
+                    </div>
+                  </div>
+                </div>
+              </div>
+               
+              <div
+                class="el-collapse-item is-active"
+              >
+                <div
+                  aria-controls="el-collapse-content-7289"
+                  aria-describedby="el-collapse-content-7289"
+                  aria-expanded="true"
+                  role="tab"
+                >
+                  <div
+                    class="el-collapse-item__header is-active"
+                    id="el-collapse-head-7289"
+                    role="button"
+                    tabindex="0"
+                  >
+                    本期创新院课时列表
+                    <i
+                      class="el-collapse-item__arrow el-icon-arrow-right is-active"
+                    />
+                  </div>
+                </div>
+                <div
+                  aria-labelledby="el-collapse-head-7289"
+                  class="el-collapse-item__wrap"
+                  id="el-collapse-content-7289"
+                  role="tabpanel"
+                >
+                  <div
+                    class="el-collapse-item__content"
+                  >
+                    <div
+                      class="el-table elemeTable el-table--fit el-table--striped el-table--enable-row-hover el-table--enable-row-transition"
+                    >
+                      <div
+                        class="hidden-columns"
+                      >
+                        <div />
+                         
+                        <div />
+                         
+                        <div />
+                         
+                        <div />
+                      </div>
+                      <div
+                        class="el-table__header-wrapper"
+                      >
+                        <table
+                          border="0"
+                          cellpadding="0"
+                          cellspacing="0"
+                          class="el-table__header"
+                        >
+                          <colgroup />
+                          <thead
+                            class=""
+                          >
+                            <tr
+                              class=""
+                            />
+                          </thead>
+                        </table>
+                      </div>
+                      <div
+                        class="el-table__body-wrapper is-scrolling-none"
+                      >
+                        <table
+                          border="0"
+                          cellpadding="0"
+                          cellspacing="0"
+                          class="el-table__body"
+                        >
+                          <colgroup />
+                          <tbody>
+                            <tr
+                              class="el-table__row"
+                            />
+                            <tr
+                              class="el-table__row el-table__row--striped"
+                            />
+                            <!---->
+                          </tbody>
+                        </table>
+                        <!---->
+                        <!---->
+                      </div>
+                      <!---->
+                      <!---->
+                      <!---->
+                      <!---->
+                      <div
+                        class="el-table__column-resize-proxy"
+                        style="display: none;"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+               
+              <div
+                class="el-collapse-item is-active"
+              >
+                <div
+                  aria-controls="el-collapse-content-5594"
+                  aria-describedby="el-collapse-content-5594"
+                  aria-expanded="true"
+                  role="tab"
+                >
+                  <div
+                    class="el-collapse-item__header is-active"
+                    id="el-collapse-head-5594"
+                    role="button"
+                    tabindex="0"
+                  >
+                    本期创新院学员列表
+                    <i
+                      class="el-collapse-item__arrow el-icon-arrow-right is-active"
+                    />
+                  </div>
+                </div>
+                <div
+                  aria-labelledby="el-collapse-head-5594"
+                  class="el-collapse-item__wrap"
+                  id="el-collapse-content-5594"
+                  role="tabpanel"
+                >
+                  <div
+                    class="el-collapse-item__content"
+                  >
+                    <div
+                      class="el-table schoolTable el-table--fit el-table--striped el-table--enable-row-hover el-table--enable-row-transition"
+                    >
+                      <div
+                        class="hidden-columns"
+                      >
+                        <div />
+                         
+                        <div />
+                         
+                        <div />
+                      </div>
+                      <div
+                        class="el-table__header-wrapper"
+                      >
+                        <table
+                          border="0"
+                          cellpadding="0"
+                          cellspacing="0"
+                          class="el-table__header"
+                        >
+                          <colgroup />
+                          <thead
+                            class=""
+                          >
+                            <tr
+                              class=""
+                            />
+                          </thead>
+                        </table>
+                      </div>
+                      <div
+                        class="el-table__body-wrapper is-scrolling-none"
+                      >
+                        <table
+                          border="0"
+                          cellpadding="0"
+                          cellspacing="0"
+                          class="el-table__body"
+                        >
+                          <colgroup />
+                          <tbody>
+                            <tr
+                              class="el-table__row"
+                            />
+                            <tr
+                              class="el-table__row el-table__row--striped"
+                            />
+                            <tr
+                              class="el-table__row"
+                            />
+                            <tr
+                              class="el-table__row el-table__row--striped"
+                            />
+                            <!---->
+                          </tbody>
+                        </table>
+                        <!---->
+                        <!---->
+                      </div>
+                      <!---->
+                      <!---->
+                      <!---->
+                      <!---->
+                      <div
+                        class="el-table__column-resize-proxy"
+                        style="display: none;"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+               
+              <div
+                class="el-collapse-item is-active"
+              >
+                <div
+                  aria-controls="el-collapse-content-6882"
+                  aria-describedby="el-collapse-content-6882"
+                  aria-expanded="true"
+                  role="tab"
+                >
+                  <div
+                    class="el-collapse-item__header is-active"
+                    id="el-collapse-head-6882"
+                    role="button"
+                    tabindex="0"
+                  >
+                    旁听者列表
+                    <i
+                      class="el-collapse-item__arrow el-icon-arrow-right is-active"
+                    />
+                  </div>
+                </div>
+                <div
+                  aria-labelledby="el-collapse-head-6882"
+                  class="el-collapse-item__wrap"
+                  id="el-collapse-content-6882"
+                  role="tabpanel"
+                >
+                  <div
+                    class="el-collapse-item__content"
+                  >
+                    <div>
+                      暂无旁听者
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <br />
+         
+        <br />
+         
+        <br />
+         
+        <br />
+         
+        <button
+          class="el-button operbutton0 el-button--primary"
+          name="el-zoom-in-center"
+          type="button"
+        >
+          <!---->
+          <i
+            class="el-icon-edit"
+          />
+          <span>
+            修改内容
+          </span>
+        </button>
+         
+        <!---->
+         
+        <!---->
+         
+        <br />
+         
+        <br />
+         
+        <br />
+         
+        <br />
+      </div>
+    </div>
+  </div>
+</div>
+`;

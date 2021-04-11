@@ -1,0 +1,45 @@
+
+.moreInfo {
+  display: none;
+}
+.register-btn {
+  width: 50%;
+  margin: 2% auto;
+  height: 40px;
+  line-height: 40px;
+  background-color: #0faeff;
+  color: white;
+}
+.vertification-btn {
+  width: 105px;
+  margin: auto auto;
+  font-size: 15px;
+  background-color: #efeff4;
+  color: black;
+  height: 30px;
+  line-height: 30px;
+}
+.input-row-box-for-vertification {
+  width: 110px;
+  line-height: 30px;
+  border: 1px;
+  height: 30px;
+}
+.check-btn {
+  width: 50%;
+  margin: 2% auto;
+  height: 40px;
+  line-height: 40px;
+  background-color: #0faeff;
+  color: white;
+}
+.alertion {
+  color: red;
+  font-size: 14px;
+  padding-right: 5px;
+  float: right;
+}
+.input-row-top {
+   margin-top: 10%;
+}
+

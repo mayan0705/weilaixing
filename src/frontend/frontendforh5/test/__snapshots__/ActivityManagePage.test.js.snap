@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <header
+    class="el-header"
+    style="height: 60px;"
+  >
+    <span
+      class="title-span"
+    >
+      未来之星管理系统
+    </span>
+     
+    <span
+      class="user-span"
+    >
+      
+    </span>
+     
+    <a
+      class="el-link el-link--primary is-underline"
+    >
+      <!---->
+      <span
+        class="el-link--inner"
+      >
+        注销
+      </span>
+      <!---->
+    </a>
+  </header>
+   
+  <div
+    class="nav"
+  >
+    <section
+      class="el-container is-vertical"
+    >
+      <header
+        class="el-header"
+        style="height: 60px;"
+      >
+        <div
+          class="newDiv"
+        >
+          <ul
+            class="sub_nav"
+          >
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                报名管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                课程管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="blueColor"
+              >
+                活动管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                校友管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                管理员权限设置
+              </li>
+            </div>
+          </ul>
+        </div>
+      </header>
+    </section>
+  </div>
+   
+  <div>
+    <span
+      class="el-tag el-tag--plain"
+      name="el-zoom-in-center"
+    >
+      创建新活动
+    </span>
+     
+    <button
+      class="el-button el-button--default"
+      type="button"
+    >
+      <!---->
+      <i
+        class="el-icon-circle-plus-outline"
+      />
+      <!---->
+    </button>
+     
+    <span
+      class="el-tag el-tag--plain"
+      name="el-zoom-in-center"
+    >
+      活动列表
+    </span>
+     
+  </div>
+</div>
+`;

@@ -1,0 +1,42 @@
+# MacOS
+.DS_Store
+
+# Editor
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode
+
+
+# Python bytecode:
+*.py[co]
+__pycache__
+
+# Packaging files:
+*.egg*
+
+# Editor temp files:
+*.swp
+*~
+
+# Sphinx docs:
+build
+
+# SQLite3 database files:
+*.db
+
+# Celerybeat scheduler file:
+celerybeat-schedule
+ENV
+
+# Media file:
+restapi/project/media/
+
+# Other
+*.pyc
+src/frontend/frontendforh5/node_modules
+src/frontend/frontendforweixin/node_modules
+src/frontend/dist
+.cache

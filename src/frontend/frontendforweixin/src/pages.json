@@ -1,0 +1,125 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},{
+			"path": "pages/apply/apply",
+			"style": {
+				"navigationBarTitleText": "报名"
+			}
+		},
+    {
+			"path": "pages/apply/applyTable",
+			"style": {
+				"navigationBarTitleText": "报名详情"
+			}
+		},
+		{
+			"path": "pages/apply/campDetail",
+			"style": {
+				"navigationBarTitleText": "创新院详情"
+			}
+		},
+		{
+			"path": "pages/course/course",
+			"style": {
+				"navigationBarTitleText": "课程"
+			}
+		},
+		{
+			"path": "pages/course/someCourse",
+			"style": {
+				"navigationBarTitleText": "课程详细信息"
+			}
+		},
+		{
+			"path": "pages/edit/edit",
+			"style": {
+				"navigationBarTitleText": "编辑个人信息"
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/schoolmates/dataBank",
+			"style": {
+				"navigationBarTitleText": "校友资料库"
+			}
+		},
+		{
+			"path": "pages/schoolmates/event",
+			"style": {
+				"navigationBarTitleText": "校友活动"
+			}
+		},
+		{
+			"path": "pages/schoolmates/schoolmates",
+			"style": {
+				"navigationBarTitleText": "校友"
+			}
+		},
+		{
+			"path": "pages/schoolmates/student",
+			"style": {
+				"navigationBarTitleText": "校友资料"
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#7a7e83",
+		"selectedColor": "#0faeff",
+		"backgroundColor": "ffffff",
+		"list": [{
+				"pagePath": "pages/apply/apply",
+				"text": "报名",
+				"iconPath": "/static/img/apply.png",
+				"selectedIconPath": "/static/img/applyHL.png"
+			},
+			{
+				"pagePath": "pages/course/course",
+				"text": "课程",
+				"iconPath": "/static/img/course.png",
+				"selectedIconPath": "/static/img/courseHL.png"
+			},
+			{
+				"pagePath": "pages/schoolmates/schoolmates",
+				"text": "校友",
+				"iconPath": "/static/img/schoolmates.png",
+				"selectedIconPath": "/static/img/schoolmatesHL.png"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"text": "我的",
+				"iconPath": "/static/img/user.png",
+				"selectedIconPath": "/static/img/userHL.png"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "我的",
+		"navigationBarBackgroundColor": "#0faeff",
+		"backgroundColor": "#FFFFFF"
+	},
+	"condition": {
+		"current": 0,
+		"list": [{
+			"name": "",
+			"path": "",
+			"query": ""
+		}]
+	}
+}

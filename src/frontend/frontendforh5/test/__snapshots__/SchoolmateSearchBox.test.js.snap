@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  class="searchbox"
+>
+  <div
+    class="inputlabel"
+  >
+    <input
+      class="s_t_input"
+      id="searchbox"
+      placeholder="  按 关 键 词 搜 索 校 友"
+      type="text"
+    />
+     
+    <button
+      class="s_button"
+      onclick="getsearchcontent()"
+    >
+      <i
+        class="s_i"
+        id="s_i"
+      />
+    </button>
+  </div>
+</div>
+`;

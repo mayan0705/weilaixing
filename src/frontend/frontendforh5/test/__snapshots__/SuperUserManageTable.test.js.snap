@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  class="managetable"
+>
+  <div
+    class="NoAllow"
+  >
+    <ul
+      class="th"
+    >
+      <li>
+        管理员账号
+      </li>
+       
+      <li>
+        管理员密码
+      </li>
+       
+      <li>
+        新建创新院权限
+      </li>
+       
+      <li>
+        课程管理权限
+      </li>
+       
+      <li>
+        新建活动权限
+      </li>
+       
+      <li>
+        新建管理员权限
+      </li>
+       
+      <li>
+        暂不可操作
+      </li>
+       
+      <!---->
+    </ul>
+     
+  </div>
+   
+  <br />
+   
+  <button
+    class="el-button NewButton el-button--primary"
+    type="button"
+  >
+    <!---->
+    <i
+      class="el-icon-edit"
+    />
+    <span>
+      编 辑
+    </span>
+  </button>
+   
+  <button
+    class="el-button InsertButton el-button--primary"
+    type="button"
+  >
+    <!---->
+    <i
+      class="el-icon-plus"
+    />
+    <span>
+      新建管理员
+    </span>
+  </button>
+   
+  <!---->
+   
+  <br />
+   
+  <br />
+   
+  <div
+    class="el-dialog__wrapper"
+    name="dialog-fade"
+    style="display: none;"
+  >
+    <div
+      aria-label="提示"
+      aria-modal="true"
+      class="el-dialog"
+      role="dialog"
+      style="margin-top: 15vh; width: 30%;"
+    >
+      <div
+        class="el-dialog__header"
+      >
+        <span
+          class="el-dialog__title"
+        >
+          提示
+        </span>
+        <button
+          aria-label="Close"
+          class="el-dialog__headerbtn"
+          type="button"
+        >
+          <i
+            class="el-dialog__close el-icon el-icon-close"
+          />
+        </button>
+      </div>
+      <!---->
+      <div
+        class="el-dialog__footer"
+      >
+        <span
+          class="dialog-footer"
+        >
+          <button
+            class="el-button el-button--default"
+            type="button"
+          >
+            <!---->
+            <!---->
+            <span>
+              取 消
+            </span>
+          </button>
+           
+          <button
+            class="el-button el-button--primary"
+            type="button"
+          >
+            <!---->
+            <!---->
+            <span>
+              确 定
+            </span>
+          </button>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

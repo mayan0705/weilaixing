@@ -1,0 +1,453 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <header
+    class="el-header"
+    style="height: 60px;"
+  >
+    <span
+      class="title-span"
+    >
+      未来之星管理系统
+    </span>
+     
+    <span
+      class="user-span"
+    >
+      
+    </span>
+     
+    <a
+      class="el-link el-link--primary is-underline"
+    >
+      <!---->
+      <span
+        class="el-link--inner"
+      >
+        注销
+      </span>
+      <!---->
+    </a>
+  </header>
+   
+  <div
+    class="nav"
+  >
+    <section
+      class="el-container is-vertical"
+    >
+      <header
+        class="el-header"
+        style="height: 60px;"
+      >
+        <div
+          class="newDiv"
+        >
+          <ul
+            class="sub_nav"
+          >
+            <div>
+              <li
+                class="sub_nav_li"
+                id="blueColor"
+              >
+                报名管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                课程管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                活动管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                校友管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                管理员权限设置
+              </li>
+            </div>
+          </ul>
+        </div>
+      </header>
+    </section>
+  </div>
+   
+  <div
+    class="form-div"
+  >
+    <h1>
+      设置
+    </h1>
+     
+    <form
+      class="el-form demo-ruleForm"
+    >
+      <div
+        class="el-form-item form-row is-required"
+      >
+        <label
+          class="el-form-item__label"
+          for="campName"
+          style="width: 120px;"
+        >
+          创新院名称
+        </label>
+        <div
+          class="el-form-item__content"
+          style="margin-left: 120px;"
+        >
+          <div
+            class="input el-input is-disabled"
+          >
+            <!---->
+            <input
+              autocomplete="off"
+              class="el-input__inner"
+              disabled="disabled"
+              type="text"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+          <!---->
+        </div>
+      </div>
+       
+      <div
+        class="el-form-item form-row is-required"
+      >
+        <label
+          class="el-form-item__label"
+          for="campIntroduce"
+          style="width: 120px;"
+        >
+          创新院介绍
+        </label>
+        <div
+          class="el-form-item__content"
+          style="margin-left: 120px;"
+        >
+          <div
+            class="textarea el-textarea is-disabled"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+              disabled="disabled"
+            />
+            <!---->
+          </div>
+          <!---->
+        </div>
+      </div>
+       
+      <div
+        class="el-form-item form-row is-required"
+      >
+        <label
+          class="el-form-item__label"
+          for="peopleOriented"
+          style="width: 120px;"
+        >
+          面向人群
+        </label>
+        <div
+          class="el-form-item__content"
+          style="margin-left: 120px;"
+        >
+          <div
+            class="input el-input is-disabled"
+          >
+            <!---->
+            <input
+              autocomplete="off"
+              class="el-input__inner"
+              disabled="disabled"
+              type="text"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+          <!---->
+        </div>
+      </div>
+       
+      <div
+        class="el-form-item form-row is-required"
+      >
+        <label
+          class="el-form-item__label"
+          for="signInTips"
+          style="width: 120px;"
+        >
+          报名须知
+        </label>
+        <div
+          class="el-form-item__content"
+          style="margin-left: 120px;"
+        >
+          <div
+            class="textarea el-textarea is-disabled"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+              disabled="disabled"
+            />
+            <!---->
+          </div>
+          <!---->
+        </div>
+      </div>
+       
+      <div
+        class="el-form-item form-row is-required"
+      >
+        <label
+          class="el-form-item__label"
+          for="campTime"
+          style="width: 120px;"
+        >
+          持续时间
+        </label>
+        <div
+          class="el-form-item__content"
+          style="margin-left: 120px;"
+        >
+          <div
+            class="el-date-editor el-range-editor el-input__inner input el-date-editor--daterange is-disabled"
+          >
+            <i
+              class="el-input__icon el-range__icon el-icon-date"
+            />
+            <input
+              autocomplete="off"
+              class="el-range-input"
+              disabled="disabled"
+              name=""
+              placeholder=""
+            />
+            <span
+              class="el-range-separator"
+            >
+              至
+            </span>
+            <input
+              autocomplete="off"
+              class="el-range-input"
+              disabled="disabled"
+              name=""
+              placeholder=""
+            />
+            <i
+              class="el-input__icon el-range__close-icon"
+            />
+          </div>
+          <!---->
+        </div>
+      </div>
+       
+      <div
+        class="el-form-item form-row is-required"
+      >
+        <label
+          class="el-form-item__label"
+          for="dueDate"
+          style="width: 120px;"
+        >
+          报名时间
+        </label>
+        <div
+          class="el-form-item__content"
+          style="margin-left: 120px;"
+        >
+          <div
+            class="el-date-editor el-range-editor el-input__inner input el-date-editor--daterange is-disabled"
+          >
+            <i
+              class="el-input__icon el-range__icon el-icon-date"
+            />
+            <input
+              autocomplete="off"
+              class="el-range-input"
+              disabled="disabled"
+              name=""
+              placeholder=""
+            />
+            <span
+              class="el-range-separator"
+            >
+              至
+            </span>
+            <input
+              autocomplete="off"
+              class="el-range-input"
+              disabled="disabled"
+              name=""
+              placeholder=""
+            />
+            <i
+              class="el-input__icon el-range__close-icon"
+            />
+          </div>
+          <!---->
+        </div>
+      </div>
+       
+      <div
+        class="el-form-item form-row"
+      >
+        <label
+          class="el-form-item__label"
+          style="width: 120px;"
+        >
+          报名人数
+        </label>
+        <div
+          class="el-form-item__content"
+          style="margin-left: 120px;"
+        >
+          <input
+            autocomplete="off"
+            class="number-input"
+            disabled="disabled"
+          />
+          <!---->
+        </div>
+      </div>
+       
+      <div
+        class="el-form-item form-row"
+      >
+        <label
+          class="el-form-item__label"
+          style="width: 120px;"
+        >
+          录取人数
+        </label>
+        <div
+          class="el-form-item__content"
+          style="margin-left: 120px;"
+        >
+          <input
+            autocomplete="off"
+            class="number-input"
+            disabled="disabled"
+          />
+          <!---->
+        </div>
+      </div>
+       
+      <div
+        class="el-form-item button-form-item"
+      >
+        <!---->
+        <div
+          class="el-form-item__content"
+          style="margin-left: 120px;"
+        >
+          <!---->
+        </div>
+      </div>
+       
+      <div
+        class="el-form-item button-form-item"
+      >
+        <!---->
+        <div
+          class="el-form-item__content"
+          style="margin-left: 120px;"
+        >
+          <button
+            class="el-button el-button--primary is-disabled"
+            disabled="disabled"
+            type="button"
+          >
+            <!---->
+            <!---->
+            <span>
+              提交
+            </span>
+          </button>
+           
+          <button
+            class="el-button el-button--primary is-disabled"
+            disabled="disabled"
+            type="button"
+          >
+            <!---->
+            <!---->
+            <span>
+              班级管理
+            </span>
+          </button>
+           
+          <button
+            class="el-button el-button--primary"
+            type="button"
+          >
+            <!---->
+            <!---->
+            <span>
+              报名列表
+            </span>
+          </button>
+           
+          <button
+            class="el-button el-button--default is-disabled"
+            disabled="disabled"
+            type="button"
+          >
+            <!---->
+            <!---->
+            <span>
+              重置
+            </span>
+          </button>
+           
+          <button
+            class="el-button el-button--default"
+            type="button"
+          >
+            <!---->
+            <!---->
+            <span>
+              返回
+            </span>
+          </button>
+          <!---->
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+`;

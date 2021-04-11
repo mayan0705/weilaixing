@@ -1,0 +1,343 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <header
+    class="el-header"
+    style="height: 60px;"
+  >
+    <span
+      class="title-span"
+    >
+      未来之星管理系统
+    </span>
+     
+    <span
+      class="user-span"
+    >
+      
+    </span>
+     
+    <a
+      class="el-link el-link--primary is-underline"
+    >
+      <!---->
+      <span
+        class="el-link--inner"
+      >
+        注销
+      </span>
+      <!---->
+    </a>
+  </header>
+   
+  <div
+    class="nav"
+  >
+    <section
+      class="el-container is-vertical"
+    >
+      <header
+        class="el-header"
+        style="height: 60px;"
+      >
+        <div
+          class="newDiv"
+        >
+          <ul
+            class="sub_nav"
+          >
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                报名管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                课程管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="blueColor"
+              >
+                活动管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                校友管理
+              </li>
+            </div>
+             
+            <div>
+              <li
+                class="sub_nav_li"
+                id="normalColor"
+              >
+                管理员权限设置
+              </li>
+            </div>
+          </ul>
+        </div>
+      </header>
+    </section>
+  </div>
+   
+  <div
+    class="el-page-header"
+  >
+    <div
+      class="el-page-header__left"
+    >
+      <i
+        class="el-icon-back"
+      />
+      <div
+        class="el-page-header__title"
+      >
+        返回
+      </div>
+    </div>
+    <div
+      class="el-page-header__content"
+    >
+      新建活动
+    </div>
+  </div>
+   
+  <div>
+    <div
+      class="el-card box-card is-hover-shadow"
+    >
+      <div
+        class="el-card__header"
+      >
+        <div
+          class="clearfix"
+        >
+          <span>
+            创建新的校友活动
+          </span>
+        </div>
+      </div>
+      <div
+        class="el-card__body"
+      >
+         
+        <div
+          class="activityForm"
+        >
+          
+        活动名称：    
+          <div
+            class="normalInputbox el-input"
+          >
+            <!---->
+            <input
+              autocomplete="off"
+              class="el-input__inner"
+              placeholder="请输入"
+              type="text"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+          <br />
+          <br />
+          
+        活动地点：    
+          <div
+            class="normalInputbox el-input"
+          >
+            <!---->
+            <input
+              autocomplete="off"
+              class="el-input__inner"
+              placeholder="请输入"
+              type="text"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+          <br />
+          <br />
+          
+        活动描述：    
+          <div
+            class="normalInputbox el-input"
+          >
+            <!---->
+            <input
+              autocomplete="off"
+              class="el-input__inner"
+              placeholder="请输入"
+              type="text"
+            />
+            <!---->
+            <!---->
+            <!---->
+            <!---->
+          </div>
+          <br />
+          <br />
+          
+        活动目标人数：    
+          <div
+            class="el-input-number el-input-number--medium"
+          >
+            <span
+              class="el-input-number__decrease"
+              role="button"
+            >
+              <i
+                class="el-icon-minus"
+              />
+            </span>
+            <span
+              class="el-input-number__increase"
+              role="button"
+            >
+              <i
+                class="el-icon-plus"
+              />
+            </span>
+            <div
+              class="el-input el-input--medium"
+            >
+              <!---->
+              <input
+                aria-disabled="undefined"
+                aria-valuemax="Infinity"
+                aria-valuemin="-Infinity"
+                aria-valuenow="0"
+                autocomplete="off"
+                class="el-input__inner"
+                max="Infinity"
+                min="-Infinity"
+                role="spinbutton"
+                type="text"
+              />
+              <!---->
+              <!---->
+              <!---->
+              <!---->
+            </div>
+          </div>
+          
+                   
+        活动时间：    
+          <div
+            class="el-date-editor el-range-editor el-input__inner el-date-editor--datetimerange"
+          >
+            <i
+              class="el-input__icon el-range__icon el-icon-time"
+            />
+            <input
+              autocomplete="off"
+              class="el-range-input"
+              name=""
+              placeholder="开始日期"
+            />
+            <span
+              class="el-range-separator"
+            >
+              至
+            </span>
+            <input
+              autocomplete="off"
+              class="el-range-input"
+              name=""
+              placeholder="结束日期"
+            />
+            <i
+              class="el-input__icon el-range__close-icon"
+            />
+          </div>
+          <br />
+          <br />
+          
+        活动具体流程：    
+        
+          <div
+            class="nextLine"
+          />
+           
+          <div
+            class="textField el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+              placeholder="请输入内容"
+            />
+            <!---->
+          </div>
+          <br />
+          <br />
+          
+        活动注意事项：    
+        
+          <div
+            class="nextLine"
+          />
+           
+          <div
+            class="textField el-textarea"
+          >
+            <textarea
+              autocomplete="off"
+              class="el-textarea__inner"
+              placeholder="请输入内容"
+            />
+            <!---->
+          </div>
+           
+          <br />
+          <br />
+        </div>
+      </div>
+    </div>
+     
+    <br />
+    <br />
+    <br />
+    <br />
+     
+    <button
+      class="el-button operbutton el-button--primary"
+      type="button"
+    >
+      <!---->
+      <i
+        class="el-icon-circle-plus-outline"
+      />
+      <span>
+        确认并新建
+      </span>
+    </button>
+     
+    <br />
+    <br />
+    <br />
+    <br />
+  </div>
+</div>
+`;

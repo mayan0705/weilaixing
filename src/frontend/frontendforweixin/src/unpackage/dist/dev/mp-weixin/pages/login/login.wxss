@@ -1,0 +1,37 @@
+
+.login-btn {
+  width: 50%;
+  margin: 2% auto;
+  height: 40px;
+  line-height: 40px;
+  background-color: #0faeff;
+  color: white;
+}
+.to-register {
+  border: 0;
+  border-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
+  font-size: 15px;
+  margin: 2% auto;
+  color: #0faeff;
+}
+.weixinLogo {
+  height: 40px;
+  width: 40px;
+}
+.vertification-btn {
+  width: 105px;
+  margin: 0 5px 0 50px;
+  font-size: 15px;
+  background-color: #efeff4;
+  color: black;
+  height: 30px;
+  line-height: 30px;
+}
+.input-row-box-for-vertification {
+  width: 110px;
+  line-height: 30px;
+  border: 1px;
+  height: 30px;
+}
+
